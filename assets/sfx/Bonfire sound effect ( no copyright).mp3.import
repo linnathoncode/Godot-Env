@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://d2xad0qbemmd0"
+path="res://.godot/imported/Bonfire sound effect ( no copyright).mp3-baba49491ad28808825552203fb7b6d1.mp3str"
+
+[deps]
+
+source_file="res://assets/sfx/Bonfire sound effect ( no copyright).mp3"
+dest_files=["res://.godot/imported/Bonfire sound effect ( no copyright).mp3-baba49491ad28808825552203fb7b6d1.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4
